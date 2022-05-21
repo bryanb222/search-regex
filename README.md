@@ -1,6 +1,6 @@
 # Search Regex
 
-[![Build Status](https://travis-ci.org/johngodley/search-regex.svg?branch=master)](https://travis-ci.org/johngodley/search-regex)
+[![Build Status](https://travis-ci.org/bryanb222/search-regex.svg?branch=master)](https://travis-ci.org/bryanb222/search-regex)
 
 Search Regex adds a powerful set of search and replace functions to WordPress posts, pages, custom post types, and other data sources. These go beyond the standard searching capabilities, and allow you to search and replace almost any data stored on your site. In addition to simple searches you have the full power of PHP's regular expressions at your disposal.
 
